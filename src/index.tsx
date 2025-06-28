@@ -9,6 +9,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
+    <title>Logan Pickart</title>
     <App />
   </React.StrictMode>
 );
